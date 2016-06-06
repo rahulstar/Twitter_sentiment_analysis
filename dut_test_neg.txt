@@ -1,0 +1,42 @@
+"diederikclercx paulahetkoetje jilloxx en ik gewoon mijn facking schuld dat hij het niet meer doet : : : :","adj nounsg nounsg conjcoord pronpers adv det__poss nounsg nounsg conjsubo pronpers pronpers adv adv verbpressg $. $. $. $.",nl_NL,1,neg
+"heel leuk als je broertje besluit om in de auto 20 minuten in je oor te krijsen .","adv adj conjsubo pronpers nounsg nounsg conjsubo prep det__art nounsg num__card nounpl prep pronpers nounsg partte verbinf $.",nl_NL,1,neg
+"ik heb geen spijt maar het voelt niet goed","pronpers verbpressg det__indef nounsg conjcoord pronpers verbpressg adv adj",nl_NL,1,neg
+"rt proud2live : een meisje laten huilen is het zwakste wat je kan doen als jongen .","adj nounsg $. det__art nounsg verbinf verbinf verbpressg det__art nounsg pronrel pronpers verbpressg verbinf conjsubo nounpl $.",nl_NL,1,neg
+"amp ; dan alleen sorry en dan is alles weer goed ! nou sorry hoor maar dan ben je wel erg slap daar in .","nounsg punc adv adv int conjcoord adv verbpressg pronindef adv adj $. int int verbpressg adv adv verbpressg pronpers adv adv adj conjsubo prep $.",nl_NL,1,neg
+"korte broek en schoenen met stalen neuzen , hoe slecht kan het zijn werken intratuin","adj nounsg conjcoord nounpl prep nounsg verbinf punc pronadv adj verbpressg pronpers det__poss verbinf nounsg",nl_NL,1,neg
+"rt bananenlikker : afscheid van iets iemand nemen , is nooit leuk","adj nounsg $. nounsg prep adv pronindef verbinf punc verbpressg adv adj",nl_NL,1,neg
+"bananenlikker : afscheid van iets iemand nemen , is nooit leuk","nounsg $. nounsg prep adv pronindef verbinf punc verbpressg adv adj",nl_NL,1,neg
+"project x aan t kijken , valt tegen vergeleken met de trailer .","nounsg nounsg prep nounsg verbinf punc verbpressg prep verbpapa prep det__art nounsg $.",nl_NL,1,neg
+"goverdomme , tering fucking pijn aan me kop ! morgen hoopelijk wel over :","nounsg punc nounsg nounsg nounsg prep pronpers verbpressg $. int adj adv adv $.",nl_NL,1,neg
+"mevrouw visser is zo dom man","nounsg nounsg verbpressg adv adj nounsg",nl_NL,1,neg
+"rt inabil : wie bang is voor fouten doet het nooit goed .","adj nounsg $. pronrel adj verbpressg prep nounpl verbpressg pronpers adv adj $.",nl_NL,1,neg
+"kan echt niet tegen mensen die smakken","verbpressg adv adv prep nounpl pronrel verbprespl",nl_NL,1,neg
+"en obeens vind je me niet meer leuk","conjcoord nounsg verbpressg pronpers pronpers adv adv adj",nl_NL,1,neg
+"wifi op de kamer is zooo slecht : s","nounsg prep det__art nounsg verbpressg nounsg verbpressg $. nounsg",nl_NL,1,neg
+"ik vind dubstep niet leuk jij vedient de ergste marteling die er bestaadt .","pronpers verbpressg nounsg adv adj verbpressg nounsg det__art adj nounsg pronrel pronadv nounsg $.",nl_NL,1,neg
+"heel slecht gegeten dus zometeen weer even hardlopen","adv adv verbpapa conjcoord nounpl adv adj nounsg",nl_NL,1,neg
+"rt officialburrak : iconfess ik ben slecht in engels .","adj nounsg $. nounsg pronpers verbpressg adv prep nounpl $.",nl_NL,1,neg
+"afscheid van iets iemand nemen , is nooit leuk . .","nounsg prep adv pronindef verbinf punc verbpressg adv adj $. $.",nl_NL,1,neg
+"rt ikbenhetmeisje : ik kan er niet tegen als mensen hun vingers gaan knakken . .","adj nounsg $. pronpers verbpressg pronadv adv prep conjsubo nounpl det__poss nounpl verbinf verbinf $. $.",nl_NL,1,neg
+"loop met me mee en zeg wat kom je tegen alleen maar haat en angst","nounsg prep pronpers adv conjcoord verbpressg pronrel verbpressg pronpers prep adv adv verbpressg conjcoord nounsg",nl_NL,1,neg
+"net bijna gespuugd bah ik kan der zo niet tegen eh ieeewwwl en kim ma lachen :","adv adv verbpapa int pronpers verbpressg det__art adv adv prep int nounsg conjcoord nounsg nounsg verbinf $.",nl_NL,1,neg
+"ik ben slecht in nedrlands","pronpers verbpressg adv prep adj",nl_NL,1,neg
+"rt heyitalkswag : een slechte persoonlijkheid kan zelfs de aantrekkelijkste persoon lelijk maken .","adj nounsg $. det__art adj nounsg verbpressg adv det__art adj nounsg adj verbinf $.",nl_NL,1,neg
+"in jouw ogen doe ik gewoon nooit iets goed . .","prep det__poss nounsg verbpressg pronpers adv adv adv adj $. $.",nl_NL,1,neg
+"rt xchewingpanda : het is ook echt nooit goed s","adj nounpl $. pronpers verbpressg adv adv adv adj nounsg",nl_NL,1,neg
+"bnr dat bnr zich voor dit karretje laat spannen is opvallend . alleen in regio s waar schaarste is valt de schade mee . nog min . 15 lucht . . .","nounsg conjsubo nounsg pronrefl prep det__demo nounsg adj nounpl verbpressg verbpresp $. adv prep nounsg nounsg pronadv nounsg verbpressg verbpressg det__art nounsg adv $. adv prep $. num__card nounsg $. $. $.",nl_NL,1,neg
+"de zin het komt goed heb ik te vaak gehoord . .","det__art nounsg pronpers verbpressg nounsg verbpressg pronpers partte adv verbpapa $. $.",nl_NL,1,neg
+"rt iidominicanax : ik haat het altijd ehh , in de bus , er zijn fucking veel vrije plaatsen , wdj je komt naast mij sitten ; s","adj nounsg $. pronpers verbpressg pronpers adv nounsg punc prep det__art nounsg punc pronadv det__poss nounsg adv adj nounpl punc nounsg pronpers verbpressg prep pronpers nounpl punc nounsg",nl_NL,1,neg
+"sommige mensen zijn het echt niet waard om in deze goed bedoelde wereld te leven . . .","det__indef nounpl verbprespl det__art nounsg adv adj conjsubo prep det__demo nounsg verbpapa nounsg partte verbinf $. $. $.",nl_NL,1,neg
+"rt thnhchc ik heb niks tegen homo s , bi s amp ; lesbie s maar toch scheld ik ermee . . shit","adj nounsg pronpers verbpressg pronindef prep adj nounsg punc adj nounsg nounsg punc nounsg nounsg conjcoord adv verbpressg pronpers pronadv $. $. int",nl_NL,1,neg
+"dit gaat niet goed hoor . .","prondemo verbpressg adv adj nounsg $. $.",nl_NL,1,neg
+"oma heeft tas meegenomen . : maar . vind hem niet zo leuk . maarja","nounsg verbpressg verbpressg verbpapa $. $. adv $. verbpressg pronpers adv adv adj $. nounsg",nl_NL,1,neg
+"mensen die tegen me liegen kunnen mij part kapot valle","nounpl pronrel prep pronpers nounsg verbprespl pronpers nounsg adj nounpl",nl_NL,1,neg
+"rt ralphbrabbelt : dende : guru was like a grandfather to me ! . . . hij was je vader , idioot ! d : dbz","adj nounpl $. nounsg $. nounsg verbpastsg nounsg num__ord adj nounsg pronpers $. $. $. $. pronpers verbpastsg pronpers nounsg punc nounsg $. num__ord $. nounsg",nl_NL,1,neg
+"boukevhouten idd ons jammer , maarja geld is belangrijk blijkbaar ; zo heeft onze vader het niet gewild","adj nounsg pronpers verbpressg punc nounsg nounsg verbpressg adj adv punc adv verbpressg det__poss nounsg det__art adv verbpapa",nl_NL,1,neg
+"me zus . is agressief","pronpers adv $. verbpressg adj",nl_NL,1,neg
+"fk saaie avond fmlmoment","adj adj nounsg nounsg",nl_NL,1,neg
+"iijsbdecemberx alle meisjes hebben ruzie met je behalve llamja meeloper van jeneerece se kan net so goed bukken dan kan je meteen in de bil","nounsg det__indef nounpl verbprespl nounsg prep pronpers conjsubo nounsg nounsg prep nounsg nounsg verbpressg adv adj nounsg verbprespl adv verbpressg pronpers adv prep det__art nounsg",nl_NL,1,neg
+"twitter is echt vervelend op de ipad je kan niet zien hoeveel tweets je hebt waarschijnlijk heb ik mijn 550 tweet gemist haha","nounsg verbpressg adv verbpresp prep det__art nounsg pronpers verbpressg adv verbinf num__card nounpl pronpers verbpressg adj verbpressg pronpers det__poss num__card nounsg verbpapa int",nl_NL,1,neg
+"egt geen zin in morgen","verbpressg det__indef nounsg prep nounsg",nl_NL,1,neg
+"rt dominoo x : zo n fout programma !","adj nounsg nounsg $. adv nounsg adj nounsg $.",nl_NL,1,neg

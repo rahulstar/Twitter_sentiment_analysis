@@ -1,0 +1,44 @@
+"rt brax ying : my girl morganwhit1fly is doing amazing in the play :","JJ NN NNS : PP$ NN NN VBZ VVG JJ IN DT NN :",en_UK,1,pos
+"rt paulabroadwell : networking tip for today : pay it forward !","JJ NN : VVG NN IN NN : VV PP RB SENT",en_UK,1,pos
+"this years john lewis advert is so shit compared to last years","DT NNS NN NN NN VBZ RB VV VVN TO JJ NNS",en_UK,1,pos
+"jodiechadderton what s wrong , i can see the similarity ! if anything i think its an improvement jo","NN WP VVZ JJ , NP MD VV DT NN SENT IN NN NP VVP PP$ DT NN NN",en_UK,1,pos
+"apples , not caffeine , are more efficient at waking you up in the morning . interesting didyouknow","NNS , RB NN , VBP RBR JJ IN VVG PP RP IN DT NN SENT JJ NN",en_UK,1,pos
+"rt kgejerta : sharks have a week dedicated to him . he is the most interesting man in the world . mrpi2012 teamtim","JJ NNS : NNS VHP DT NN VVN TO PP SENT PP VBZ DT RBS JJ NN IN DT NN SENT JJ NNS",en_UK,1,pos
+"linzicrellin tom i ve got you 23 presents for your birthday ha nice friend","NN NN NP NNS VVD PP CD NNS IN PP$ NN NP JJ NN",en_UK,1,pos
+"just thankful that i m here","RB JJ IN/that NP NN RB",en_UK,1,pos
+"my two oldest brothers are each adding another blessing to the family .","PP$ CD JJS NNS VBP DT VVG DT NN TO DT NN SENT",en_UK,1,pos
+"chicken dippers for the third night in a row , my life doesn t get better than this :","NN NNS IN DT JJ NN IN DT NN , PP$ NN NN NN VVP JJR IN DT :",en_UK,1,pos
+"mikedarling41 they re really excited to have a student of my intelligence attend their university","JJ PP IN RB VVN TO VH DT NN IN PP$ NN VV PP$ NN",en_UK,1,pos
+"rt automedia : is there a better combination of quality , design and value than the 2013 hyundai elantra gt ? http : t . co 33422kbg","JJ NN : VBZ RB DT JJR NN IN NN , NN CC NN IN DT CD NN NN NN SENT NN : NN SENT NP JJ",en_UK,1,pos
+"you right i think it is funny ! oooowwwweeee ! let me chill before i have to pop off !","PP JJ NP VVP PP VBZ JJ SENT NN SENT VV PP VV IN NP VHP TO VV RP SENT",en_UK,1,pos
+"rt iaingray4 : a league of their own is up there with the best jamie redknapp is a legend ! mobot","JJ NN : DT NN IN PP$ JJ VBZ RB RB IN DT JJS NN NP VBZ DT NN SENT NN",en_UK,1,pos
+"imforever young we re amazing","RB JJ PP IN JJ",en_UK,1,pos
+"panic ! at the disco is playing in subway . hellyeah","NN SENT IN DT NN VBZ VVG IN NN SENT NN",en_UK,1,pos
+"the girl that holds me down the most i give you my up most respect . loyalty is royalty","DT NN WDT VVZ PP RB DT JJS NP VV PP PP$ RB JJS NN SENT NN VBZ NN",en_UK,1,pos
+"tel aviv is trending ! respect","NP NP VBZ VVG SENT NN",en_UK,1,pos
+"insightfans usa we love you xxxx thank you so much","NNS NN PP VVP PP NP VVP PP RB JJ",en_UK,1,pos
+"when ur cooking taste so good , u got lick the plate","WRB JJ NN NN RB JJ , NN VVD VV DT NN",en_UK,1,pos
+"the abcs of death a must see for horror fans http : t . co 9qfcg2ye","DT NNS IN NN DT MD VV IN NN NNS NN : NN SENT NP NN",en_UK,1,pos
+"dakin ledford your jeans looked good today , anndd your blowed kiss was great ! ! !","NP NP PP$ NNS VVD JJ NN , VVG PP$ VVN NN VBD JJ SENT SENT SENT",en_UK,1,pos
+"really enjoying my lunch right now thanks jene lynne your the best","RB VVG PP$ NN RB RB NNS NN NN PP$ DT JJS",en_UK,1,pos
+"holly meow very cute and your black heals ?","NN VVP RB JJ CC PP$ NN VVZ SENT",en_UK,1,pos
+"rt nathancaton : i love the chase ! not as much as jimmy savile did though ! : p","JJ NN : NP VVP DT NN SENT RB RB JJ IN NN NN VVD RB SENT : NN",en_UK,1,pos
+"niallangelwings hugs you back thanks for the support . lol . how long do u think it s gonna be ? xx","NNS NNS PP RB NNS IN DT NN SENT NN SENT WRB RB VVP NN VVP PP NNS VVG VB SENT NP",en_UK,1,pos
+"very tempted to go to the midnight showing of breaking dawn","RB VVN TO VV TO DT NN VVG IN VVG NN",en_UK,1,pos
+"we want to thank everyone who has donated to our coat drive . tomorrow morning we will proudly take halstead . . . http : t . co 2semmndj","PP VVP TO VV NN WP VHZ VVN TO PP$ NN NN SENT NN NN PP MD RB VV NN SENT SENT SENT NN : NN SENT NP NP",en_UK,1,pos
+"j weise that last tweet was cracking","NN NN IN/that JJ VVP VBD VVG",en_UK,1,pos
+"justinbieber hi justin how are you today ? i love you lt ; 3","VVG UH NN WRB VBP PP NN SENT NP VVP PP NNS : LS",en_UK,1,pos
+"revision and assignment going rather well smuggrin choanoflagellates :","NN CC NN VVG RB RB JJ NNS :",en_UK,1,pos
+"mischqaizz that s why i love my cat more than anything . she is wicked !","NP IN/that NNS WRB NP VV PP$ NN JJR IN NN SENT PP VBZ JJ SENT",en_UK,1,pos
+"stephennasse congrats on being an uncle man ! see ya tomorrow at the governorscup200","NN NN IN VBG DT NN NN SENT VV NN NN IN DT NN",en_UK,1,pos
+"but . us strong single moms can handle it hell we came this far !","RB SENT PP JJ JJ NNS MD VV PP NN PP VVD DT RB SENT",en_UK,1,pos
+"amyhalawi you look hot . this is why i m the sidekick :","NNS PP VVP JJ SENT DT VBZ WRB NP NN DT NN :",en_UK,1,pos
+"hoping today a good one","VVG NN DT JJ CD",en_UK,1,pos
+"saby195 i cant wait to meet him ! leading the future . . i love it ! come get your shirt !","NP NP NN VV TO VV PP SENT VVG DT NN SENT SENT NP VVP PP SENT VV VV PP$ NN SENT",en_UK,1,pos
+"ilovekenya thats so awesome ! ! sounds like wesley is in for a real treat ! ! ! ;","NP NNS RB JJ SENT SENT NNS IN NN VBZ IN IN DT JJ NN SENT SENT SENT :",en_UK,1,pos
+"having fun","VHG NN",en_UK,1,pos
+"dmoney1524 hello that s awesome ! thanks for let us know you love it ! kg","JJ NN IN/that JJ JJ SENT NNS IN VV PP VVP PP VVP PP SENT NN",en_UK,1,pos
+"rt leeduhy : best part of halloween has to be eating left over sweets","JJ NN : JJS NN IN NN VHZ TO VB VVG VVN IN NNS",en_UK,1,pos
+"leemotee lol . yeah . looking forward to it . never been .","NN NN SENT RB SENT VVG RB TO PP SENT RB VBN SENT",en_UK,1,pos
+"rt jonaaland : you need a new notebook bag for school . check these out , they re awesome ! http : t . co abmliuxw sp","JJ NN : PP VVP DT JJ NN NN IN NN SENT VV DT RP , PP IN JJ SENT NN : NN SENT NP NN NN",en_UK,1,pos
+"phat pretty hot and tempting whitneyhoustonsontheirown","NN RB JJ CC JJ NN",en_UK,1,pos

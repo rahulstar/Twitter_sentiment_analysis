@@ -1,0 +1,41 @@
+"i m not looking forward to this","NP NN RB VVG RB TO DT",en_UK,1,neg
+"thexman12 poor you ! : it s gunna be so bad dude . i m scared for you .","JJ JJ PP SENT : PP JJ NN VB RB JJ NN SENT NP NN VVN IN PP SENT",en_UK,1,neg
+"im not in the mood to be alive","NP RB IN DT NN TO VB JJ",en_UK,1,neg
+"rt che theyello1 : learn something , nigga grow your ass up","JJ NN NN : VV NN , NP VV PP$ NN IN",en_UK,1,neg
+"courtneybtw duncan tells me i have to meet your nutty friends","JJ NN VVZ PP NP VHP TO VV PP$ JJ NNS",en_UK,1,neg
+"really don t wanna do any of the work i have to do","RB VV NN VVP VV DT IN DT NN NP VHP TO VV",en_UK,1,neg
+"darn losing your phone when it s on silent . boo .","RB VVG PP$ NN WRB PP NNS IN JJ SENT VV SENT",en_UK,1,neg
+"dnt make friends with none of these freaks ! ! ! !","NN VV NNS IN NN IN DT VVZ SENT SENT SENT SENT",en_UK,1,neg
+"makinnlovee sounds like we re on the same boat : crappystart","NN NNS IN PP NN IN DT JJ NN : NN",en_UK,1,neg
+"rt molzzz : you never make time for me anymore and that makes me sad ugh","JJ NN : PP RB VV NN IN PP RB CC WDT VVZ PP JJ NNS",en_UK,1,neg
+"fallen to his side , dispiritedly watching him .","VVN TO PP$ NN , RB VVG PP SENT",en_UK,1,neg
+"emhoughtaling this is slanderous .","VVG DT VBZ JJ SENT",en_UK,1,neg
+"rt bevisbutthead : so much shit comes out your mouth , your ass is jealous .","JJ NN : RB JJ NN VVZ RP PP$ NN , PP$ NN VBZ JJ SENT",en_UK,1,neg
+"rt chloeelouise97 : hate non uniform days , just another chance for people to judge you whattowear ?","RB JJ : VVP JJ JJ NNS , RB DT NN IN NNS TO VV PP NN SENT",en_UK,1,neg
+"andrewbingham09 don t get your hopes up anytime soon .","NN VV NN VV PP$ NNS RB RB RB SENT",en_UK,1,neg
+"mourning the death of tami taylor http : t . co tbotmnyl","VVG DT NN IN NP NP NN : NN SENT NP NN",en_UK,1,neg
+"rt coxa30 : to all the breaking dawn tweets . . twilight is stupid","JJ NN : TO PDT DT NN NN VVZ SENT SENT NN VBZ JJ",en_UK,1,neg
+"people make me fucking sick","NNS VVP PP VVG JJ",en_UK,1,neg
+"these hoes pissing me off !","DT NNS VVG PP RP SENT",en_UK,1,neg
+"i m just going to poor everyday of my life , ugh .","NP NN RB VVG TO JJ JJ IN PP$ NN , NNS SENT",en_UK,1,neg
+"rt grownassmidget : there is no i in team but there is 3 u s in shut the fuck up","JJ NN : EX VBZ DT NP IN NN CC EX VBZ CD NN NNS IN VVN DT NN IN",en_UK,1,neg
+"i m only just coming out of school shit","NP NN RB RB VVG RP IN NN NN",en_UK,1,neg
+"if you curl your eye lashes every period kill yourself .","IN PP VV PP$ NN VVZ DT NN VV PP SENT",en_UK,1,neg
+"oh poo . you ve already ruined quite a number of songs for me . don t go there .","UH NN SENT PP VVZ RB VVN RB DT NN IN NNS IN PP SENT VV NN VVP RB SENT",en_UK,1,neg
+"rt shavis 1 : . . . i can t take a lot of people here serious at all .","JJ NNS CD : SENT SENT SENT NP MD NN VV DT NN IN NNS RB JJ IN DT SENT",en_UK,1,neg
+"tasha left her twitter up on this cmputer worst thing this bitch coulda ever done ! ! ! ! ! ! ! ! ! !","NP VVD PP VVP RP IN DT NN JJS NN DT NN NNS RB VVN SENT SENT SENT SENT SENT SENT SENT SENT SENT SENT",en_UK,1,neg
+"can t stand to see my friends unhappy .","NN NN NN TO VV PP$ NNS JJ SENT",en_UK,1,neg
+"i hate this class so much . !","NP VVP DT NN RB JJ SENT SENT",en_UK,1,neg
+"cold hands and texting do not go well together","JJ NNS CC NN VVP RB VV RB RB",en_UK,1,neg
+"boring night .","JJ NN SENT",en_UK,1,neg
+"you re all straight fucked","PP IN DT RB VVN",en_UK,1,neg
+"idkmyjillybean getting my teeth drilled at instead of being at lunch with you : that sucked","JJ VVG PP$ NNS VVN IN RB IN VBG IN NN IN PP : WDT VVD",en_UK,1,neg
+"ashhashmash justinbieber hates you he says you re a zion .","NN NN VVZ PP PP VVZ PP IN DT NN SENT",en_UK,1,neg
+"i fucking hate . get the fuck out of my life bitch .","NP VVG NN SENT VV DT NN IN IN PP$ NN NN SENT",en_UK,1,neg
+"i m bout bored as hell just sitting here !","NP NN NN VVN IN NN RB VVG RB SENT",en_UK,1,neg
+"i m so worry when i m thinking about you , hope they don t hurt you or do anything cruel to you hmmmm . . . . .","NP NN RB VV WRB NP NN VVG IN PP , VVP PP VV NN VVD PP CC VVP NN JJ TO PP VVN SENT SENT SENT SENT SENT",en_UK,1,neg
+"dumblewhhore no funny , ready to wreck more than that","RB RB JJ , JJ TO VV JJR IN DT",en_UK,1,neg
+"chemistry puts me in the worst mood grrr","NN VVZ PP IN DT JJS NN NNS",en_UK,1,neg
+"there is actually no pleasing my family . whatever","EX VBZ RB RB VVG PP$ NN SENT WDT",en_UK,1,neg
+"and thats ontop of my fathers dna being very rare in the uk . . no wonder i never felt i fitted in !","CC NNS NN IN PP$ NNS NNS VBG RB JJ IN DT NN SENT SENT DT NN NP RB VVN NP VVN IN SENT",en_UK,1,neg
+"forever disappointed that a group of squid isn t called a squad . lolol","RB VVN IN/that DT NN IN NN NN NN VVD DT NN SENT NN",en_UK,1,neg

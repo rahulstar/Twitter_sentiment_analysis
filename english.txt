@@ -1,0 +1,181 @@
+"rt brax ying : my girl morganwhit1fly is doing amazing in the play :","JJ NN NNS : PP$ NN NN VBZ VVG JJ IN DT NN :",en_UK,1,pos
+"rt paulabroadwell : networking tip for today : pay it forward !","JJ NN : VVG NN IN NN : VV PP RB SENT",en_UK,1,pos
+"this years john lewis advert is so shit compared to last years","DT NNS NN NN NN VBZ RB VV VVN TO JJ NNS",en_UK,1,pos
+"jodiechadderton what s wrong , i can see the similarity ! if anything i think its an improvement jo","NN WP VVZ JJ , NP MD VV DT NN SENT IN NN NP VVP PP$ DT NN NN",en_UK,1,pos
+"apples , not caffeine , are more efficient at waking you up in the morning . interesting didyouknow","NNS , RB NN , VBP RBR JJ IN VVG PP RP IN DT NN SENT JJ NN",en_UK,1,pos
+"rt kgejerta : sharks have a week dedicated to him . he is the most interesting man in the world . mrpi2012 teamtim","JJ NNS : NNS VHP DT NN VVN TO PP SENT PP VBZ DT RBS JJ NN IN DT NN SENT JJ NNS",en_UK,1,pos
+"linzicrellin tom i ve got you 23 presents for your birthday ha nice friend","NN NN NP NNS VVD PP CD NNS IN PP$ NN NP JJ NN",en_UK,1,pos
+"just thankful that i m here","RB JJ IN/that NP NN RB",en_UK,1,pos
+"my two oldest brothers are each adding another blessing to the family .","PP$ CD JJS NNS VBP DT VVG DT NN TO DT NN SENT",en_UK,1,pos
+"chicken dippers for the third night in a row , my life doesn t get better than this :","NN NNS IN DT JJ NN IN DT NN , PP$ NN NN NN VVP JJR IN DT :",en_UK,1,pos
+"mikedarling41 they re really excited to have a student of my intelligence attend their university","JJ PP IN RB VVN TO VH DT NN IN PP$ NN VV PP$ NN",en_UK,1,pos
+"rt automedia : is there a better combination of quality , design and value than the 2013 hyundai elantra gt ? http : t . co 33422kbg","JJ NN : VBZ RB DT JJR NN IN NN , NN CC NN IN DT CD NN NN NN SENT NN : NN SENT NP JJ",en_UK,1,pos
+"you right i think it is funny ! oooowwwweeee ! let me chill before i have to pop off !","PP JJ NP VVP PP VBZ JJ SENT NN SENT VV PP VV IN NP VHP TO VV RP SENT",en_UK,1,pos
+"rt iaingray4 : a league of their own is up there with the best jamie redknapp is a legend ! mobot","JJ NN : DT NN IN PP$ JJ VBZ RB RB IN DT JJS NN NP VBZ DT NN SENT NN",en_UK,1,pos
+"imforever young we re amazing","RB JJ PP IN JJ",en_UK,1,pos
+"panic ! at the disco is playing in subway . hellyeah","NN SENT IN DT NN VBZ VVG IN NN SENT NN",en_UK,1,pos
+"the girl that holds me down the most i give you my up most respect . loyalty is royalty","DT NN WDT VVZ PP RB DT JJS NP VV PP PP$ RB JJS NN SENT NN VBZ NN",en_UK,1,pos
+"tel aviv is trending ! respect","NP NP VBZ VVG SENT NN",en_UK,1,pos
+"insightfans usa we love you xxxx thank you so much","NNS NN PP VVP PP NP VVP PP RB JJ",en_UK,1,pos
+"when ur cooking taste so good , u got lick the plate","WRB JJ NN NN RB JJ , NN VVD VV DT NN",en_UK,1,pos
+"the abcs of death a must see for horror fans http : t . co 9qfcg2ye","DT NNS IN NN DT MD VV IN NN NNS NN : NN SENT NP NN",en_UK,1,pos
+"dakin ledford your jeans looked good today , anndd your blowed kiss was great ! ! !","NP NP PP$ NNS VVD JJ NN , VVG PP$ VVN NN VBD JJ SENT SENT SENT",en_UK,1,pos
+"really enjoying my lunch right now thanks jene lynne your the best","RB VVG PP$ NN RB RB NNS NN NN PP$ DT JJS",en_UK,1,pos
+"holly meow very cute and your black heals ?","NN VVP RB JJ CC PP$ NN VVZ SENT",en_UK,1,pos
+"rt nathancaton : i love the chase ! not as much as jimmy savile did though ! : p","JJ NN : NP VVP DT NN SENT RB RB JJ IN NN NN VVD RB SENT : NN",en_UK,1,pos
+"niallangelwings hugs you back thanks for the support . lol . how long do u think it s gonna be ? xx","NNS NNS PP RB NNS IN DT NN SENT NN SENT WRB RB VVP NN VVP PP NNS VVG VB SENT NP",en_UK,1,pos
+"very tempted to go to the midnight showing of breaking dawn","RB VVN TO VV TO DT NN VVG IN VVG NN",en_UK,1,pos
+"we want to thank everyone who has donated to our coat drive . tomorrow morning we will proudly take halstead . . . http : t . co 2semmndj","PP VVP TO VV NN WP VHZ VVN TO PP$ NN NN SENT NN NN PP MD RB VV NN SENT SENT SENT NN : NN SENT NP NP",en_UK,1,pos
+"j weise that last tweet was cracking","NN NN IN/that JJ VVP VBD VVG",en_UK,1,pos
+"justinbieber hi justin how are you today ? i love you lt ; 3","VVG UH NN WRB VBP PP NN SENT NP VVP PP NNS : LS",en_UK,1,pos
+"revision and assignment going rather well smuggrin choanoflagellates :","NN CC NN VVG RB RB JJ NNS :",en_UK,1,pos
+"mischqaizz that s why i love my cat more than anything . she is wicked !","NP IN/that NNS WRB NP VV PP$ NN JJR IN NN SENT PP VBZ JJ SENT",en_UK,1,pos
+"stephennasse congrats on being an uncle man ! see ya tomorrow at the governorscup200","NN NN IN VBG DT NN NN SENT VV NN NN IN DT NN",en_UK,1,pos
+"but . us strong single moms can handle it hell we came this far !","RB SENT PP JJ JJ NNS MD VV PP NN PP VVD DT RB SENT",en_UK,1,pos
+"amyhalawi you look hot . this is why i m the sidekick :","NNS PP VVP JJ SENT DT VBZ WRB NP NN DT NN :",en_UK,1,pos
+"hoping today a good one","VVG NN DT JJ CD",en_UK,1,pos
+"saby195 i cant wait to meet him ! leading the future . . i love it ! come get your shirt !","NP NP NN VV TO VV PP SENT VVG DT NN SENT SENT NP VVP PP SENT VV VV PP$ NN SENT",en_UK,1,pos
+"ilovekenya thats so awesome ! ! sounds like wesley is in for a real treat ! ! ! ;","NP NNS RB JJ SENT SENT NNS IN NN VBZ IN IN DT JJ NN SENT SENT SENT :",en_UK,1,pos
+"having fun","VHG NN",en_UK,1,pos
+"dmoney1524 hello that s awesome ! thanks for let us know you love it ! kg","JJ NN IN/that JJ JJ SENT NNS IN VV PP VVP PP VVP PP SENT NN",en_UK,1,pos
+"rt leeduhy : best part of halloween has to be eating left over sweets","JJ NN : JJS NN IN NN VHZ TO VB VVG VVN IN NNS",en_UK,1,pos
+"leemotee lol . yeah . looking forward to it . never been .","NN NN SENT RB SENT VVG RB TO PP SENT RB VBN SENT",en_UK,1,pos
+"rt jonaaland : you need a new notebook bag for school . check these out , they re awesome ! http : t . co abmliuxw sp","JJ NN : PP VVP DT JJ NN NN IN NN SENT VV DT RP , PP IN JJ SENT NN : NN SENT NP NN NN",en_UK,1,pos
+"phat pretty hot and tempting whitneyhoustonsontheirown","NN RB JJ CC JJ NN",en_UK,1,pos
+"i m not looking forward to this","NP NN RB VVG RB TO DT",en_UK,1,neg
+"thexman12 poor you ! : it s gunna be so bad dude . i m scared for you .","JJ JJ PP SENT : PP JJ NN VB RB JJ NN SENT NP NN VVN IN PP SENT",en_UK,1,neg
+"im not in the mood to be alive","NP RB IN DT NN TO VB JJ",en_UK,1,neg
+"rt che theyello1 : learn something , nigga grow your ass up","JJ NN NN : VV NN , NP VV PP$ NN IN",en_UK,1,neg
+"courtneybtw duncan tells me i have to meet your nutty friends","JJ NN VVZ PP NP VHP TO VV PP$ JJ NNS",en_UK,1,neg
+"really don t wanna do any of the work i have to do","RB VV NN VVP VV DT IN DT NN NP VHP TO VV",en_UK,1,neg
+"darn losing your phone when it s on silent . boo .","RB VVG PP$ NN WRB PP NNS IN JJ SENT VV SENT",en_UK,1,neg
+"dnt make friends with none of these freaks ! ! ! !","NN VV NNS IN NN IN DT VVZ SENT SENT SENT SENT",en_UK,1,neg
+"makinnlovee sounds like we re on the same boat : crappystart","NN NNS IN PP NN IN DT JJ NN : NN",en_UK,1,neg
+"rt molzzz : you never make time for me anymore and that makes me sad ugh","JJ NN : PP RB VV NN IN PP RB CC WDT VVZ PP JJ NNS",en_UK,1,neg
+"fallen to his side , dispiritedly watching him .","VVN TO PP$ NN , RB VVG PP SENT",en_UK,1,neg
+"emhoughtaling this is slanderous .","VVG DT VBZ JJ SENT",en_UK,1,neg
+"rt bevisbutthead : so much shit comes out your mouth , your ass is jealous .","JJ NN : RB JJ NN VVZ RP PP$ NN , PP$ NN VBZ JJ SENT",en_UK,1,neg
+"rt chloeelouise97 : hate non uniform days , just another chance for people to judge you whattowear ?","RB JJ : VVP JJ JJ NNS , RB DT NN IN NNS TO VV PP NN SENT",en_UK,1,neg
+"andrewbingham09 don t get your hopes up anytime soon .","NN VV NN VV PP$ NNS RB RB RB SENT",en_UK,1,neg
+"mourning the death of tami taylor http : t . co tbotmnyl","VVG DT NN IN NP NP NN : NN SENT NP NN",en_UK,1,neg
+"rt coxa30 : to all the breaking dawn tweets . . twilight is stupid","JJ NN : TO PDT DT NN NN VVZ SENT SENT NN VBZ JJ",en_UK,1,neg
+"people make me fucking sick","NNS VVP PP VVG JJ",en_UK,1,neg
+"these hoes pissing me off !","DT NNS VVG PP RP SENT",en_UK,1,neg
+"i m just going to poor everyday of my life , ugh .","NP NN RB VVG TO JJ JJ IN PP$ NN , NNS SENT",en_UK,1,neg
+"rt grownassmidget : there is no i in team but there is 3 u s in shut the fuck up","JJ NN : EX VBZ DT NP IN NN CC EX VBZ CD NN NNS IN VVN DT NN IN",en_UK,1,neg
+"i m only just coming out of school shit","NP NN RB RB VVG RP IN NN NN",en_UK,1,neg
+"if you curl your eye lashes every period kill yourself .","IN PP VV PP$ NN VVZ DT NN VV PP SENT",en_UK,1,neg
+"oh poo . you ve already ruined quite a number of songs for me . don t go there .","UH NN SENT PP VVZ RB VVN RB DT NN IN NNS IN PP SENT VV NN VVP RB SENT",en_UK,1,neg
+"rt shavis 1 : . . . i can t take a lot of people here serious at all .","JJ NNS CD : SENT SENT SENT NP MD NN VV DT NN IN NNS RB JJ IN DT SENT",en_UK,1,neg
+"tasha left her twitter up on this cmputer worst thing this bitch coulda ever done ! ! ! ! ! ! ! ! ! !","NP VVD PP VVP RP IN DT NN JJS NN DT NN NNS RB VVN SENT SENT SENT SENT SENT SENT SENT SENT SENT SENT",en_UK,1,neg
+"can t stand to see my friends unhappy .","NN NN NN TO VV PP$ NNS JJ SENT",en_UK,1,neg
+"i hate this class so much . !","NP VVP DT NN RB JJ SENT SENT",en_UK,1,neg
+"cold hands and texting do not go well together","JJ NNS CC NN VVP RB VV RB RB",en_UK,1,neg
+"boring night .","JJ NN SENT",en_UK,1,neg
+"you re all straight fucked","PP IN DT RB VVN",en_UK,1,neg
+"idkmyjillybean getting my teeth drilled at instead of being at lunch with you : that sucked","JJ VVG PP$ NNS VVN IN RB IN VBG IN NN IN PP : WDT VVD",en_UK,1,neg
+"ashhashmash justinbieber hates you he says you re a zion .","NN NN VVZ PP PP VVZ PP IN DT NN SENT",en_UK,1,neg
+"i fucking hate . get the fuck out of my life bitch .","NP VVG NN SENT VV DT NN IN IN PP$ NN NN SENT",en_UK,1,neg
+"i m bout bored as hell just sitting here !","NP NN NN VVN IN NN RB VVG RB SENT",en_UK,1,neg
+"i m so worry when i m thinking about you , hope they don t hurt you or do anything cruel to you hmmmm . . . . .","NP NN RB VV WRB NP NN VVG IN PP , VVP PP VV NN VVD PP CC VVP NN JJ TO PP VVN SENT SENT SENT SENT SENT",en_UK,1,neg
+"dumblewhhore no funny , ready to wreck more than that","RB RB JJ , JJ TO VV JJR IN DT",en_UK,1,neg
+"chemistry puts me in the worst mood grrr","NN VVZ PP IN DT JJS NN NNS",en_UK,1,neg
+"there is actually no pleasing my family . whatever","EX VBZ RB RB VVG PP$ NN SENT WDT",en_UK,1,neg
+"and thats ontop of my fathers dna being very rare in the uk . . no wonder i never felt i fitted in !","CC NNS NN IN PP$ NNS NNS VBG RB JJ IN DT NN SENT SENT DT NN NP RB VVN NP VVN IN SENT",en_UK,1,neg
+"forever disappointed that a group of squid isn t called a squad . lolol","RB VVN IN/that DT NN IN NN NN NN VVD DT NN SENT NN",en_UK,1,neg
+"the infamous jp you know the site ?","DT JJ NN PP VVP DT NN SENT",en_UK,0,obj
+"rt rhlimousine : hi guys alex is here in the office and he is the son of ceo . he is saying hi to all of you http : t . co rs7bxefw call u . . .","JJ NN : UH NNS NN VBZ RB IN DT NN CC PP VBZ DT NN IN NN SENT PP VBZ VVG UH TO DT IN PP NN : NN SENT NN NNS VVP NN SENT SENT SENT",en_UK,0,obj
+"made it to san antonio . :","VVN PP TO JJ NN SENT :",en_UK,0,obj
+"that s not it but you know what i mean lol","DT NN RB PP CC PP VVP WP NP VV NN",en_UK,0,obj
+"i posted 3 photos on facebook in the album educational support http : t . co g5qgqm97","NP VVD CD NNS IN NN IN DT NN JJ NN NN : NN SENT NP JJ",en_UK,0,obj
+"need a 5th uni to apply for","VV DT JJ NN TO VV IN",en_UK,0,obj
+"rt peopleschoice : voting is open go to http : t . co h79ab7v9 now to start voting !","JJ NN : NN VBZ RB VV TO NN : NN SENT NP NN RB TO VV NN SENT",en_UK,0,obj
+"iyaa mistersiput : juliananaomii julia , check your dm . there is something that i would say .","NN NN : NP NN , VV PP$ NN SENT EX VBZ NN IN/that NP MD VV SENT",en_UK,0,obj
+"rt factsof18years : i m single because i m waiting for the right time in the right place with a right person .","JJ NNS : NP NN JJ IN NP NN VVG IN DT JJ NN IN DT JJ NN IN DT JJ NN SENT",en_UK,0,obj
+"ntikku would love to chat with you about mobile apps . meet after thanksgiving perhaps ?","NN MD VV TO VV IN PP RB JJ NNS SENT VV IN NN RB SENT",en_UK,0,obj
+"when you re in the middle of talking and someone talks over you http : t . co igfujlck","WRB PP NN IN DT NN IN VVG CC NN NNS IN PP NN : NN SENT NP NN",en_UK,0,obj
+"sitting watching highlights of the 6 2 game thatissensational henriklarsson","VVG VVG NNS IN DT CD CD NN JJ NN",en_UK,0,obj
+"i need to copy up all my history work lol","NP VVP TO VV RP PDT PP$ NN NN NN",en_UK,0,obj
+"am i the only one who still listens to the reaaallly old songs of lady gaga ? like brown eyes etc","VBP NP DT JJ PP WP RB VVZ TO DT RB JJ NNS IN NN JJ SENT IN JJ NNS NN",en_UK,0,obj
+"com and now i make 75 , 000 and i get to travel a few months out of the year","NN CC RB NP VV CD , CD CC NP VV TO VV DT JJ NNS IN IN DT NN",en_UK,0,obj
+"i m not sleeping . . just resting my eyes","NP NN RB VVG SENT SENT RB VVG PP$ NNS",en_UK,0,obj
+"rt neshlasoul : knowing isn t the same as understanding amp ; , hearing isn t the same as listening .","JJ NN : VVG NN NN DT JJ IN NN NN : , VVG NN NN DT JJ IN VVG SENT",en_UK,0,obj
+"rt ikbenvaleriee : listening usher trading places .","JJ NN : VVG NN NN NNS SENT",en_UK,0,obj
+"rt toodamnmanly : bread ? i order two steaks to use as a bun for my third steak .","JJ NN : NN SENT NP NN CD NNS TO VV IN DT NN IN PP$ JJ NN SENT",en_UK,0,obj
+"15 . 11 . 12 today is the day i eat only healthy food and worked out","CD SENT CD SENT CD NN VBZ DT NN NP VV RB JJ NN CC VVN RP",en_UK,0,obj
+"deezydothis lol is this a tyra moment ?","NN NN VBZ DT DT NN NN SENT",en_UK,0,obj
+"kleinemayo haha , whats the problem ?","NN NN , VVZ DT NN SENT",en_UK,0,obj
+"danaldson come this weekend , you can ski then","NP VV DT NN , PP MD VV RB",en_UK,0,obj
+"loveelovatic msleastarlight arianagrande try again to log in in your account ! d :","JJ NN NN VVP RB TO VV IN IN PP$ NN SENT SYM :",en_UK,0,obj
+"the feeling of stretching gt ; gt ; gt ;","DT NN IN VVG NN : NN : NN :",en_UK,0,obj
+"tytysinowitz nahh gotta look up the lyrics on youtube made by the rule","NN NN VVN NN IN DT NNS IN NN VVN IN DT NN",en_UK,0,obj
+"perfectlypearld i am on the way","NP NP VBP IN DT NN",en_UK,0,obj
+"http : t . co pmbanbel is the direct link to sandream s pigment business ! get your color on folks !","NN : NN SENT NP NN VBZ DT JJ NN TO NN NN NN NN SENT VV PP$ NN IN NNS SENT",en_UK,0,obj
+"i put her on my team then i put her in rotation lls 2chainz","NP VVD PP IN PP$ NN RB NP VVD PP IN NN NNS JJ",en_UK,0,obj
+"who wanna redo my dreads for thanksgiving ?","WP VVP VV PP$ NNS IN NN SENT",en_UK,0,obj
+"jessmjohnstone you must send a pic of yourself as madame johnstone ! and what is febreeze ?","NN PP MD VV DT JJ IN PP IN NN NN SENT CC WP VBZ JJ SENT",en_UK,0,obj
+"not made in , made for china http : t . co seejkrwu","RB VVN IN , VVN IN NN NN : NN SENT NP NP",en_UK,0,obj
+"rt caseywinderl : no one ever comes to first period","JJ NNS : DT CD RB VVZ TO JJ NN",en_UK,0,obj
+"they got the police and everything","PP VVD DT NN CC NN",en_UK,0,obj
+"you can brush his beard , or shave it off , or you can make him a ginger santa","PP MD VV PP$ NN , CC VV PP RP , CC PP MD VV PP DT NN NN",en_UK,0,obj
+"uberfacts how do you know that ? ?","NNS WRB VVP PP VVP DT SENT SENT",en_UK,0,obj
+"jammin jecca then we can add it to story time","NN NN RB PP MD VV PP TO NN NN",en_UK,0,obj
+"what do you get someone for christmas when they seem to have everything ?","WP VVP PP VVP NN IN NNS WRB PP VVP TO VH NN SENT",en_UK,0,obj
+"i have to make this 23 last","NP VHP TO VV DT CD JJ",en_UK,0,obj
+"the skirt : seven things you need to move to new york city four pins style , gear , life , places , features http : t . co p3wddi5o","DT NN : CD NNS PP VVP TO VV TO JJ VVP NN CD NNS NN , NN , NN , NNS , VVZ NN : NN SENT NP NP",en_UK,0,obj
+"backyard living : homeowners building cottages for parents , guests or just more . . .","NN NN : NNS VVG NNS IN NNS , NNS CC RB JJR SENT SENT SENT",en_UK,0,obj
+"woke up today with the letter k stuck in my head .","VVD RP NN IN DT NN NN VVN IN PP$ NN SENT",en_UK,0,obj
+"tonite in the haus . . . . vinyl nite w dj t coz spinnin the tunes . 8pm","NN IN DT NN SENT SENT SENT SENT NN NN NN NN NN NN NN DT NNS SENT JJ",en_UK,0,obj
+"again moderate then schedule this time leave in queue 1128 jwright150","RB JJ RB VV DT NN NN IN NN CD NN",en_UK,0,obj
+"thinking about getting wow today for lunch . . , mmm","VVG IN VVG NN NN IN NN SENT SENT , NP",en_UK,0,obj
+"np the s . i . g . i . t all the time .","NN DT NN SENT NP SENT NN SENT NP SENT NN PDT DT NN SENT",en_UK,0,obj
+"the diapers arrived for the show on saturday ! join us and get a free 24 pkg for u or donate it ! http : t . co jy0byxyw","DT NNS VVN IN DT NN IN NN SENT VV PP CC VV DT JJ CD NN IN NN CC VV PP SENT NN : NN SENT NN NNS",en_UK,0,obj
+"im almost to 26000 tweets . . not sure who to dedicate it to yet . .","NP RB TO CD VVZ SENT SENT RB RB WP TO VV PP TO RB SENT SENT",en_UK,0,obj
+"no work for me tomorrow yes sir","DT NN IN PP NN RB NN",en_UK,0,obj
+"lelelewis she s going to sing fireflies ? :","NNS PP NNS VVG TO VV NNS SENT :",en_UK,0,obj
+"dacenterofearth fraserbarclay96 you two going to the west hatch open evening tonight ? ?","NN NN PP CD VVG TO DT NN VV JJ NN NN SENT SENT",en_UK,0,obj
+"in life you have to make some changes .","IN NN PP VHP TO VV DT NNS SENT",en_UK,0,obj
+"what is love to u ?","WP VBZ NN TO NN SENT",en_UK,0,obj
+"i just unlocked the fixer upper badge on foursquare for checking in at hardware stores ! tool time ! http : t . co rlbqhxuj","NP RB VVD DT NN JJ NN IN RB IN VVG IN IN NN NNS SENT NN NN SENT NN : NN SENT NP NP",en_UK,0,obj
+"going sleep after she s finish the reports :","VVG NN IN PP RB VV DT NNS :",en_UK,0,obj
+"i will be in mia in 2 weeks","NP MD VB IN NP IN CD NNS",en_UK,0,obj
+"beedailey its in cape town in long street .","NP PP$ IN NN NN IN JJ NN SENT",en_UK,0,obj
+"i m playing a game on fifa and the ball is invisible","NP NN VVG DT NN IN NN CC DT NN VBZ JJ",en_UK,0,obj
+"rt tokerquoter : stoners : the only things that bake at room temperature .","JJ NN : NNS : DT JJ NNS WDT NN IN NN NN SENT",en_UK,0,obj
+"i m watching the vampire diaries 201 others checked in http : t . co ijmlovqc getglue tvd","NP NN VVG DT NN NNS CD NNS VVN IN NN : NN SENT NP NN NN NNS",en_UK,0,obj
+"gettin these rims on .","NN DT NNS IN SENT",en_UK,0,obj
+"dancemachine hy whatever it is , let s just wait for the mv to come out by then we ll know what the real story is","NN NNS WDT PP VBZ , VV NNS RB VV IN DT NN TO VV RP IN RB PP NNS VV WP DT JJ NN VBZ",en_UK,0,obj
+"i m having the biggest debate in my mind , right now .","NP NN VHG DT JJS NN IN PP$ NN , RB RB SENT",en_UK,0,obj
+"i see this man woog relloworld at the most random spots","NP VV DT NN NN NN IN DT RBS JJ NNS",en_UK,0,obj
+"zuma they say your signature say a lot about your personality . http : t . co u914cymz","NN PP VVP PP$ NN VVP DT NN IN PP$ NN SENT NN : NN SENT NP NP",en_UK,0,obj
+"klm so do you wherever you are !","NN RB VVP PP WRB PP VBP SENT",en_UK,0,obj
+"nataliecassar18 51 followers ? stepping up in the world babay","NP CD NNS SENT VVG RP IN DT NN NN",en_UK,0,obj
+"rt vaultlyfecco : looking for some ways to spread the brand ! ! vaultlyfeclothing vaultlyfe vaultgang","JJ NN : VVG IN DT NNS TO VV DT NN SENT SENT VVG NN NN",en_UK,0,obj
+"dannypaz95 you should tell the girls from the train lol","NN PP MD VV DT NNS IN DT NN NN",en_UK,0,obj
+"rt brytusofficial : off to the airport ! havent slept yet lol","JJ NN : RB TO DT NN SENT NN VVD RB NN",en_UK,0,obj
+"he tell her to balance the checkbook , i tell her to roll my weed up","PP VVP PP TO VV DT NN , NP VV PP TO VV PP$ NN IN",en_UK,0,obj
+"rt funny truth : are you taking any foreign language classes this year ? math .","RB JJ NN : VBP PP VVG DT JJ NN NNS DT NN SENT NN SENT",en_UK,0,obj
+"this time last year i was already stockin up on shoes for my man for christmas .","DT NN JJ NN NP VBD RB NN RP IN NNS IN PP$ NN IN NNS SENT",en_UK,0,obj
+"late fights and early mobbin","JJ NNS CC JJ NN",en_UK,0,obj
+"rt jenniferstixx : peeing thedavid inside","JJ NN : VVG NN IN",en_UK,0,obj
+"you tell me about your past thinking your future was me","PP VVP PP IN PP$ JJ VVG PP$ NN VBD PP",en_UK,0,obj
+"eyes all sticky like honey on bees","NNS RB JJ IN NN IN NNS",en_UK,0,obj
+"clementee18 it s 300 by the way","NN PP VVD CD IN DT NN",en_UK,0,obj
+"he offered her the world , she said she had her own","PP VVD PP DT NN , PP VVD PP VHD PP$ JJ",en_UK,0,obj
+"in the car listening to foxy99 . 1","IN DT NN VVG TO NN SENT CD",en_UK,0,obj
+"i have alot of on campus classes next semester","NP VHP NN IN IN NN NNS JJ NN",en_UK,0,obj
+"off to chalfont community college open evening","IN TO NN NN NN JJ NN",en_UK,0,obj
+"i m naming my son odell","NP NN VVG PP$ NN NN",en_UK,0,obj
+"what s going on minaayazi19 ? !","WP NNS VVG IN NN SENT SENT",en_UK,0,obj
+"still searching for my afterman .","RB VVG IN PP$ NN SENT",en_UK,0,obj
+"so i woke up to register , then woke up for my non existence psychology class today :","IN NP VVD RP TO VV , RB VVD RP IN PP$ JJ NN NN NN NN :",en_UK,0,obj
+"ericadrew nah she only bikes no running for her lol","JJ NN PP JJ NNS RB VVG IN PP$ NN",en_UK,0,obj
+"jammin to wearednd !","NN TO NP SENT",en_UK,0,obj
+"rt ryanrambo : he dove in it","JJ NN : PP VVD IN PP",en_UK,0,obj
+"5 signs he is the right one for you http : t . co u849px1i http : t . co sv4htmup","CD NNS PP VBZ DT RB CD IN PP NN : NN SENT NP NP NN : NN SENT NN NNS",en_UK,0,obj
+"imdlf i know that i just couldn t understand what you wrote","NP NP VVP IN/that NP RB NN NN VV WP PP VVD",en_UK,0,obj
+"enter to win a trip , fashion accessories , paint and more in the oh canada style contest ! http : t . co 43ixb8ls houseandhome","VV TO VV DT NN , NN NNS , NN CC JJR IN DT UH NN NN NN SENT NN : NN SENT NP JJ NN",en_UK,0,obj
+"imixmonitors i m home . it s not everyone for that show in orlando .","NNS NP NN NN SENT PP VVZ RB NN IN DT NN IN NN SENT",en_UK,0,obj
+"iamwill61 when should i come and have a suits ? ?","JJ WRB MD NP VVN CC VH DT NNS SENT SENT",en_UK,0,obj
+"arieee you still have my movie","NN PP RB VH PP$ NN",en_UK,0,obj
+"rt killjennifer : death6701 except for you . . . because you have a cat as an icon","JJ NN : JJ IN IN PP SENT SENT SENT IN PP VHP DT NN IN DT NN",en_UK,0,obj
