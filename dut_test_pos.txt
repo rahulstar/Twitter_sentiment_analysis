@@ -1,0 +1,42 @@
+"lt ; 3 lt ; 3 je bent echt leuk . .","nounsg punc num__card nounsg punc num__ord pronpers verbpressg adv adj $. $.",nl_NL,1,pos
+"een goed liedje als wekker zetten . noooooit meer .","det__art adj nounsg conjsubo nounsg verbinf $. nounsg adv $.",nl_NL,1,pos
+"leuk flame lijkt me leuk","adj nounsg verbpressg pronpers adj",nl_NL,1,pos
+"goed geslaagd ! nu eten","nounsg verbpapa $. adv verbinf",nl_NL,1,pos
+"kaaytjuh jaa maarjaa het zal wel grappig worden met melanie tegen de leraren xd","nounsg nounsg nounsg pronpers verbpressg adv adj verbinf prep nounsg prep det__art nounpl nounsg",nl_NL,1,pos
+"persiiian sheila doe nou niet zo stom ! je kan het hartstikke goed !","nounsg nounsg verbpressg int adv adv adj $. pronpers verbpressg pronpers adv adj $.",nl_NL,1,pos
+"leuk plannetje voor vanaaf .","adj nounsg prep nounsg $.",nl_NL,1,pos
+"was gister leuk dennert","verbpastsg adj adj nounsg",nl_NL,1,pos
+"florien xx oja ja dat word super leuk","adj nounsg nounprop int pronrel verbpressg adj adj",nl_NL,1,pos
+"rt sonobionda : ilovemaayke gewoon , je kan echt goed zingen dalijk wordt je ondekt wordt je beroemd enzoo ahahahaaaha","adj nounsg $. adj adj punc pronpers verbpressg adj nounsg verbinf nounsg verbpressg pronpers adj verbpressg pronpers adj nounsg nounsg",nl_NL,1,pos
+"xesmayyy was echt super leuk ! elke dag naar stadje en daarna naar de disco met de groep , lekker warm enso","nounsg verbpastsg adv adj adj $. det__indef nounsg prep nounsg conjcoord pronadv prep det__art nounsg prep det__art nounsg punc adv adj nounpl",nl_NL,1,pos
+"ik wil oook goed kunnen zingen het is niet eerlijk . .","pronpers verbpressg nounsg nounsg verbinf verbinf pronindef verbpressg adv adj $. $.",nl_NL,1,pos
+"neoliticum eet smakelijk . klinkt goed ! !","nounsg verbpressg adj $. verbpressg nounsg $. $.",nl_NL,1,pos
+"mensen doen altijd stoer tegen mij op twitter eh , soortvan ze denken dat ik bang word xd","nounpl verbprespl adv adj prep pronpers prep nounsg int punc nounsg pronpers verbinf conjsubo pronpers adj verbpressg nounsg",nl_NL,1,pos
+"niki dutchie dat geloof ik ! goed gedaan ! en die review was ook al leuk ! !","nounsg nounsg pronrel verbpressg pronpers $. nounsg verbpapa $. conjcoord det__demo nounsg verbpastsg adv adv adj $. $.",nl_NL,1,pos
+"zo , dat was pulledagje en een nacht bij kristiaan . goed geslaagd in ieder geval !","adv punc pronrel verbpastsg nounsg conjcoord det__art nounsg prep nounsg $. nounsg verbpapa prep det__indef nounsg $.",nl_NL,1,pos
+"rt the maarten : beach volleybal is ook wel leuk , allemaal vrouwen in bikini haha","adj adj nounpl $. nounsg nounsg verbpressg adv adv adj punc det__indef nounpl prep nounsg int",nl_NL,1,pos
+"rt daphnevanmeijel : weer thuis van een leuk dagje joepie ! nat","adj nounsg $. adv adv prep det__art adj nounsg int $. adj",nl_NL,1,pos
+"rt bobbievdb : was wel weer leuk met thomaske95","adj nounpl $. verbpastsg adv adv adj prep nounsg",nl_NL,1,pos
+"kirstenophof aaah super ! ja hier is het ook leuk maar blijf nog 2wekem en mis luuk","nounsg nounsg nounsg $. int adv verbpressg pronpers adv adj conjcoord verbpressg adv adj conjcoord adj nounsg",nl_NL,1,pos
+"rt lausiehof : rt whahaharry soms denk ik echt omg waarom ben ik zo leuk herkenjedat tsss zo niet herkenbaar tsss omg bitch arrogan . . .","adj nounsg $. adj nounsg adv verbpressg pronpers adj nounsg pronadv verbpressg pronpers adv adj adj nounsg adv adv adj nounpl adj nounsg nounsg $. $. $.",nl_NL,1,pos
+"vind je me nog wel echt leuk ? . .","verbpressg pronpers pronpers adv adv adv adj $. $. $.",nl_NL,1,pos
+"wass leuk in denhaag met mumm amp ; best veel gekocht :","nounsg adj prep nounsg prep nounsg nounsg punc adv adv verbpapa $.",nl_NL,1,pos
+"monisiaaaaaaaa is goed xxx","nounsg verbpressg adj nounsg",nl_NL,1,pos
+"leanderfoldes liefffi , ja is goed , xx","nounpl nounsg punc int verbpressg nounsg punc nounsg",nl_NL,1,pos
+"weer at home , was leuk dagje with lucie","adv verbpastsg nounsg punc verbpastsg adj nounsg nounsg nounsg",nl_NL,1,pos
+"ik begin dat sporten nog leuk te vinden : you go girl !","pronpers nounsg pronrel verbprespl adv adj partte verbinf $. nounsg adj nounsg $.",nl_NL,1,pos
+"was leuk met chels","verbpastsg adj prep nounpl",nl_NL,1,pos
+"xdaniellep is goed ; p","nounsg verbpressg nounsg punc nounsg",nl_NL,1,pos
+"goed nieuws . ik heb 2 ipod opladers . ik ben zo slim","adj nounsg $. pronpers verbpressg num__card nounsg nounpl $. pronpers verbpressg adv adj",nl_NL,1,pos
+"aarontilburgs wow das super leuk !","adj nounsg nounsg adj adj $.",nl_NL,1,pos
+"was leuk rijden met xsuzannnexx","verbpastsg adj nounsg prep nounsg",nl_NL,1,pos
+"goed nieuws","adj adj",nl_NL,1,pos
+"lindoo074 . haha ja ik wil eerst zien als ze goed zijn gedaan he","nounsg $. int int pronpers verbpressg adv verbinf conjsubo pronpers adj verbprespl verbpapa nounsg",nl_NL,1,pos
+"rt the maarten : beach volleybal is ook wel leuk , allemaal vrouwen in bikini !","adj adj nounpl $. nounsg nounsg verbpressg adv adv adj punc det__indef nounpl prep nounsg $.",nl_NL,1,pos
+"hihi zwemmen was leuk hahaha !","nounsg nounsg verbpastsg adj int $.",nl_NL,1,pos
+"rt restsjalot : heeeee leuk ! ! ! ! ! vriend mounirtoub op tv bij 24kitchen inspiratie opdoen . . . . : makkelijkemaaltijd arabischekeuken","adj nounsg $. nounsg adj $. $. $. $. $. nounsg nounsg prep nounsg prep nounsg nounsg verbinf $. $. $. $. $. nounsg nounsg",nl_NL,1,pos
+"thuis , was leuk in arnhem lt ; 3","adv punc verbpastsg adj prep adj nounsg punc num__card",nl_NL,1,pos
+"anyaylina ik heb hier zoveel leuke mensen leren kennen , als je er wat tijd en energie in steekt , komt het helemaal goed ! ! :","nounsg pronpers verbpressg adv num__card adj nounpl verbinf verbinf punc conjsubo pronpers pronadv det__indef nounsg conjcoord nounsg adv verbpressg punc verbpressg pronpers adv adj $. $. $.",nl_NL,1,pos
+"super leuk dagje op het strand gehad , ook op banaan geweest","adj adj nounsg prep det__art nounsg verbpapa punc adv prep nounsg verbpapa",nl_NL,1,pos
+"maar goed dat we vroeg gaan eten ik heb zooo n honger","conjcoord adj conjsubo pronpers verbpastsg verbinf verbprespl pronpers verbpressg nounsg nounsg verbpressg",nl_NL,1,pos
+"r petie ik denk dat dat binnekort wel goed komt , niet ?","nounsg nounsg pronpers verbpressg conjsubo det__demo nounsg adv adj verbpressg punc adv $.",nl_NL,1,pos
